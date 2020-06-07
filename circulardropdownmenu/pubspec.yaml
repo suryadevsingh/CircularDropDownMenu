@@ -1,6 +1,6 @@
 name: circulardropdownmenu
-description: A new Flutter package.
-version: 0.0.1
+description:  The custom field shows the currently selected item as well as an arrow that opens a menu for selecting another item created by suryadevsingh.
+version: 1.0.0
 homepage: https://github.com/suryadevsingh/CircularDropDownMenu
 
 environment:
